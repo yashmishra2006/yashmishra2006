@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m someone who’s always building something—whether it’s AI tools, backend systems, or new ideas for solving real-world problems. I love creating practical tech, experimenting with machine learning, and pushing myself to learn faster. I’m driven, curious, and focused on achieving big things, one project at a time.
+I’m someone who’s always building something whether it’s AI tools, backend systems, or new ideas for solving real-world problems. I love creating practical tech, experimenting with machine learning, and pushing myself to learn faster. I’m driven, curious, and focused on achieving big things, one project at a time.
 
 
 ## 🌐 Socials:
